@@ -1,0 +1,5 @@
+﻿  6 Laba.cpp
+  Vector.cpp
+  Создание кода...
+C:\Users\david\OneDrive\Рабочий стол\My Projects\6 Laba\6 Laba\Vector.cpp(57): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  6 Laba.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\My Projects\6 Laba\x64\Debug\6 Laba.exe
