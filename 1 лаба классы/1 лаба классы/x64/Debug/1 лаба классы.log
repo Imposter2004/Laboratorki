@@ -1,0 +1,7 @@
+﻿  1 лаба классы.cpp
+C:\Users\david\OneDrive\Рабочий стол\My Projects\1 лаба классы\1 лаба классы\1 лаба классы.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  fraction.cpp
+C:\Users\david\OneDrive\Рабочий стол\My Projects\1 лаба классы\1 лаба классы\fraction.cpp(20,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\david\OneDrive\Рабочий стол\My Projects\1 лаба классы\1 лаба классы\fraction.cpp(24,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  1 лаба классы.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\My Projects\1 лаба классы\x64\Debug\1 лаба классы.exe
