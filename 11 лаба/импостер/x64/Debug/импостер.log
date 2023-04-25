@@ -1,0 +1,3 @@
+﻿  импостер.cpp
+C:\Users\david\OneDrive\Рабочий стол\My Projects\импостер\импостер\импостер.cpp(159,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  импостер.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\My Projects\импостер\x64\Debug\импостер.exe
