@@ -1,0 +1,5 @@
+﻿  7 лаба.cpp
+  Time.cpp
+  Создание кода...
+C:\Users\david\OneDrive\Рабочий стол\My Projects\7 лаба\7 лаба\Vector.h(76): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  7 лаба.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\My Projects\7 лаба\x64\Debug\7 лаба.exe
