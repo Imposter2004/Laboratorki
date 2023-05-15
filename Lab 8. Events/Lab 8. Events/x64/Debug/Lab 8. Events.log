@@ -1,0 +1,11 @@
+﻿  Dialog.cpp
+C:\Users\david\OneDrive\Рабочий стол\My Projects\Lab 8. Events\Lab 8. Events\Dialog.cpp(30,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Lab 8. Events.cpp
+  Object.cpp
+  Person.cpp
+  Student.cpp
+  Vector.cpp
+  Создание кода...
+C:\Users\david\OneDrive\Рабочий стол\My Projects\Lab 8. Events\Lab 8. Events\Dialog.cpp(37): warning C4172: возвращение адреса локальной или временной переменной : evt
+LINK : warning LNK4076: недопустимый файл инкрементного состояния "x64\Debug\Lab 8. Events.ilk" (будет удален); неинкрементная компоновка
+  Lab 8. Events.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\My Projects\Lab 8. Events\x64\Debug\Lab 8. Events.exe
