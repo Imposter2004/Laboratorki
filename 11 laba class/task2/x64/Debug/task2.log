@@ -1,0 +1,7 @@
+﻿  task2.cpp
+C:\Users\serge\OneDrive\Документы\GitHub\Tarasov_Sergey_LABS_PSTU_RIS_22_1b\class_laba11\task2\task2.cpp(79,22): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\serge\OneDrive\Документы\GitHub\Tarasov_Sergey_LABS_PSTU_RIS_22_1b\class_laba11\task2\task2.cpp(91,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\serge\OneDrive\Документы\GitHub\Tarasov_Sergey_LABS_PSTU_RIS_22_1b\class_laba11\task2\task2.cpp(92,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  time.cpp
+  Создание кода...
+  task2.vcxproj -> C:\Users\serge\OneDrive\Документы\GitHub\Tarasov_Sergey_LABS_PSTU_RIS_22_1b\class_laba11\task2\x64\Debug\task2.exe

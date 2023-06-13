@@ -1,0 +1,24 @@
+﻿  task1.cpp
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\task1.cpp(42,8): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\task1.cpp(47,11): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\task1.cpp(59,8): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\task1.cpp(65,11): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\task1.cpp(95,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\x64\Debug\task1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  task1.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\class_laba11\task1\x64\Debug\task1.exe

@@ -1,0 +1,7 @@
+﻿  task5.cpp
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task5\task5.cpp(29,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task5\vector.h(61,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task5\vector.h(54,1): message : во время компиляции функции-члена класс шаблон "Vector<Time>::Vector(int)"
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task5\task5.cpp(31,14): message : см. первую ссылку на "Vector<Time>::Vector" в "main"
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task5\task5.cpp(31,16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+  task5.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\class_laba11\task5\x64\Debug\task5.exe

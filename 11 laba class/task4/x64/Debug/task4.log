@@ -1,0 +1,8 @@
+﻿  task4.cpp
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task4\task4.cpp(59,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task4\task4.cpp(73,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\david\OneDrive\Рабочий стол\class_laba11\task4\task4.cpp(89,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  time.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\david\OneDrive\Рабочий стол\class_laba11\task4\x64\Debug\task4.exe при последней инкрементной компоновке; выполняется полная компоновка
+  task4.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\class_laba11\task4\x64\Debug\task4.exe
