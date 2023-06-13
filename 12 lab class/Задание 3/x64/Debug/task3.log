@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\Source.cpp(12,9): warning C4101: n: неиспользованная локальная переменная
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\vvector.h(39,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\vvector.h(33,1): message : во время компиляции функции-члена класс шаблон "Vector<Time>::Vector(int)"
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\Source.cpp(10,18): message : см. первую ссылку на "Vector<Time>::Vector" в "main"
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\Source.cpp(10,28): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\vvector.h(79,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\vvector.h(73,1): message : во время компиляции функции-члена класс шаблон "T Vector<T>::sred(void)"
+          with
+          [
+              T=Time
+          ]
+C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\Source.cpp(26,23): message : см. первую ссылку на "Vector<Time>::sred" в "main"
+  time.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\x64\Debug\task3.exe при последней инкрементной компоновке; выполняется полная компоновка
+  task3.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\class_laba12\task3\x64\Debug\task3.exe
