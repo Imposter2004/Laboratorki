@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\david\OneDrive\Рабочий стол\class_laba13\task2\Source.cpp(57,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  time.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\david\OneDrive\Рабочий стол\class_laba13\task2\x64\Debug\task2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  task2.vcxproj -> C:\Users\david\OneDrive\Рабочий стол\class_laba13\task2\x64\Debug\task2.exe
