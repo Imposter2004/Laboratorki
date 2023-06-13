@@ -1,0 +1,3 @@
+C:\Users\serge\OneDrive\Документы\GitHub\graph\Debug\graph.exe
+C:\Users\serge\OneDrive\Документы\GitHub\ARM\graph\Debug\graph.exe
+C:\Users\serge\OneDrive\Документы\GitHub\Tarasov_Sergey_LABS_PSTU_RIS_22_1b\graph\Debug\graph.exe
